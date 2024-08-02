@@ -1,6 +1,5 @@
-![asset-21](https://github.com/user-attachments/assets/49c2c6af-4768-4164-8746-20d44583a696)
+![asset-21](https://github.com/user-attachments/assets/f1a673d6-7806-49e9-80aa-00b858868750)
 # Mini Project Zettacamp#3 - Restaurant (Backend)
-
 This project was created during an intensive bootcamp from Zettabyte Pte. Ltd. over 3 months as the final project and proof of learning from those 3 months.
 
 I created a GraphQL server to handle client requests to the server. The chosen theme is a restaurant, which must meet several criteria such as management systems, balance systems, authentication and authorization, and dynamic data.
